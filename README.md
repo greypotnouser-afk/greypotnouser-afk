@@ -66,6 +66,6 @@ I am a passionate software engineer based in Vietnam, focused on combining artif
 </p>
 
 <p align="center">
-  <i>"Code is poetry, written with logic."</i> <br>
+  <i>"kill everyone then kill myself too."</i> <br>
   <b>📍 Folkvalley</b>
 </p>
