@@ -1,6 +1,7 @@
-
 <div align="center">
-  <h1 align="center">Hi there, I'm Premium 👋</h1>
+  <a href="https://github.com/greypotnouser-afk">
+    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=32&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hello,+I'm+Premium+%F0%9F%91%8B" alt="Hello, I'm Premium" />
+  </a>
   <h3 align="center">AI-Assisted Software Engineer | Cloud Explorer | Vibe Coder</h3>
   
   <p align="center">
@@ -66,5 +67,5 @@ I am a passionate software engineer based in Vietnam, focused on combining artif
 
 <p align="center">
   <i>"Code is poetry, written with logic."</i> <br>
-  <b>📍 Vietnam</b>
+  <b>📍 Folkvalley</b>
 </p>
