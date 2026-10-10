@@ -37,9 +37,9 @@ I am a passionate software engineer based in Vietnam, focused on combining artif
 ![Luau](https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=roblox&logoColor=white)
 
 #### **AI & Generation Tools**
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini%20Pro-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-![Viggle AI](https://img.shields.io/badge/Viggle%20AI-FF6A00?style=for-the-badge&logo=ai&logoColor=white)
-![Kling AI](https://img.shields.io/badge/Kling%20AI-000000?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![GPT Astra 6](https://img.shields.io/badge/GPT%20Astra%206-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini Pro](https://img.shields.io/badge/Google%20Gemini%20Pro-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 
 #### **Development & Cloud Environment**
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
