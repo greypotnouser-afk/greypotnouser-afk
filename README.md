@@ -19,7 +19,7 @@
 
 ### 👨‍💻 About Me
 
-I am a passionate software engineer based in Vietnam, focused on combining artificial intelligence with modern development workflows. Whether I'm architecting game logic, designing retro-styled web interfaces, or experimenting with cloud infrastructure, I build with efficiency and creativity in mind.
+I am a passionate software engineer based in Vietnam. Whether I'm architecting game logic, designing retro-styled web interfaces, or experimenting with cloud infrastructure, I build with efficiency and creativity in mind.
 
 - 🔭 **Currently working on:** Full-stack web projects and advanced Roblox game systems.
 - 🧠 **Currently exploring:** Cloud architecture.
