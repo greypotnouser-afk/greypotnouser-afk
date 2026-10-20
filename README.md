@@ -2,10 +2,10 @@
   <a href="https://github.com/greypotnouser-afk">
     <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=32&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hello,+I'm+Premium+%F0%9F%91%8B" alt="Hello, I'm Premium" />
   </a>
-  <h3 align="center">AI-Assisted Software Engineer | Cloud Explorer | Vibe Coder</h3>
+  <h3 align="center"> | Cloud Explorer | Vibe Coder</h3>
   
   <p align="center">
-    Building immersive game systems, interactive web experiences, and exploring the frontiers of AI integration.
+    Building immersive game systems, interactive web experience.
   </p>
 
   <p align="center">
@@ -22,8 +22,8 @@
 I am a passionate software engineer based in Vietnam, focused on combining artificial intelligence with modern development workflows. Whether I'm architecting game logic, designing retro-styled web interfaces, or experimenting with cloud infrastructure, I build with efficiency and creativity in mind.
 
 - 🔭 **Currently working on:** Full-stack web projects and advanced Roblox game systems.
-- 🧠 **Currently exploring:** Cloud architecture and advanced AI prompting for automated workflows.
-- 🤝 **Collaborate on:** Open-source AI tools, game development scripts, and UI/UX engineering.
+- 🧠 **Currently exploring:** Cloud architecture.
+- 🤝 **Collaborate on:** game development scripts, and UI/UX engineering.
 - 💬 **Ask me about:** `Luau` scripting, Front-end UI (HTML/CSS/JS), and AI-assisted development.
 
 ---
@@ -36,10 +36,6 @@ I am a passionate software engineer based in Vietnam, focused on combining artif
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Luau](https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=roblox&logoColor=white)
 
-#### **AI & Generation Tools**
-![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![GPT Astra 6](https://img.shields.io/badge/GPT%20Astra%206-10A37F?style=for-the-badge&logo=openai&logoColor=white)
-![Google Gemini Pro](https://img.shields.io/badge/Google%20Gemini%20Pro-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 
 #### **Development & Cloud Environment**
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
