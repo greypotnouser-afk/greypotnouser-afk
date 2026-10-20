@@ -2,7 +2,7 @@
   <a href="https://github.com/greypotnouser-afk">
     <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=32&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hello,+I'm+Premium+%F0%9F%91%8B" alt="Hello, I'm Premium" />
   </a>
-  <h3 align="center"> | Cloud Explorer | Vibe Coder</h3>
+  <h3 align="center"> | Cloud Explorer |</h3>
   
   <p align="center">
     Building immersive game systems, interactive web experience.
